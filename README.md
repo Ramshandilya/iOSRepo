@@ -1,8 +1,10 @@
-# iOSRepo
-
+![iOS Repo](../master/title.png)
 ####About
 A list of awesome resources, libraries, frameworks for iOS developers.
 ***
+
+##Contents
+* [Architecture](#architecture)
 
 ***
 ## Architecture
@@ -210,7 +212,8 @@ A list of awesome resources, libraries, frameworks for iOS developers.
 ## Data Layer
 * [Pantry](https://github.com/nickoneill/Pantry) - The missing light persistence layer for Swift.
 * [CoreStore](https://github.com/JohnEstropia/CoreStore) - Unleashing the real power of Core Data with the elegance and safety of Swift
-* 
+
+
 ## Image Processing
 * [GPUImage2](https://github.com/BradLarson/GPUImage2) 
 * [SwiftImageProcessing](https://github.com/skyfe79/SwiftImageProcessing) - Do pixel operations in swift.
@@ -218,7 +221,8 @@ A list of awesome resources, libraries, frameworks for iOS developers.
 * [Colornet](https://github.com/pavelgonchar/colornet) - Neural Network to colorize grayscale images
 * [Filterpedia](https://github.com/FlexMonkey/Filterpedia) - Core Image Filter Explorer & Showcase
 * [Toucan](https://github.com/gavinbunney/Toucan) - Fabulous Image Processing in Swift.
-* 
+
+
 ##Security
 * [Locksmith](https://github.com/matthewpalmer/Locksmith) - A powerful, protocol-oriented library for working with the keychain in Swift.
 * [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - Crypto related functions and helpers for Swift
@@ -227,7 +231,6 @@ A list of awesome resources, libraries, frameworks for iOS developers.
 * [Chirp](https://github.com/trifl/Chirp) - The easiest way to prepare, play, and remove sounds in your Swift app.
 * [novocaine](https://github.com/alexbw/novocaine) - Painless high-performance audio on iOS and Mac OS X.
 * [AudioKit](https://github.com/audiokit/AudioKit)
-* ~~ [EZAudio](https://github.com/syedhali/EZAudio) - An iOS and OSX audio visualization framework built upon Core Audio useful for anyone doing real-time, low-latency audio processing and visualizations. ~~
 
 ## Video
 * [Mobile Player](https://github.com/mobileplayer/mobileplayer-ios) - A powerful and completely customizable media player for iOS.
