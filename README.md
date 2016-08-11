@@ -170,6 +170,7 @@ A list of awesome resources, libraries, frameworks for iOS developers.
 ### Image
 * [Translucid](https://github.com/Ekhoo/Translucid) - Set an Image as text background
 * [XAnimatedImage](https://github.com/khaledmtaha/XAnimatedImage) - A performant animated GIF engine for iOS.
+* [AspectFillFaceAware](https://github.com/BeauNouvelle/AspectFillFaceAware) - focus on faces within an image when using AspectFill.
 
 ### Image Caching
 * [Nuke](https://github.com/kean/Nuke) - for loading, processing, caching and preheating images
