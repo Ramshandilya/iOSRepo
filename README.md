@@ -9,16 +9,16 @@ A list of awesome resources, libraries, frameworks for iOS developers.
 * [Foundation](#foundation)
 	* [Color](#color)
 	* [Date](#date)
-	* [Operation](#operation)
+	* [Operations](#operations)
 	* [Timer](#timer)
 * UI
 	* [Animations](#animations)
-	* [Activity Indication](#activity-indicator)
+	* [Activity Indicator](#activity-indicator)
 	* [Alerts](#alerts)
 	* [Button](#button)
 	* [Cache](#cache)
 	* [Calendar](#calendar)
-	* [Camera](#camera-&-gallery)
+	* [Camera & Gallery](#camera-and-gallery)
 	* [Chat](#chat)
 	* [CollectionView](#collectionview)
 	* [Drawing](#drawing)
@@ -48,7 +48,7 @@ A list of awesome resources, libraries, frameworks for iOS developers.
 * [Security](#security)
 * [Audio](#audio)
 * [Video](#video)
-* [Logging & Debug](#loggin-&-debug)
+* [Logging and Debug](#loggin-and-debug)
 * [Analytics](#analytics)
 * [Localization](#localization)
 * [Misc](#misc) 
@@ -116,7 +116,7 @@ A list of awesome resources, libraries, frameworks for iOS developers.
 * [Ramotion: FoldingCell](https://github.com/Ramotion/folding-cell)
 * [Yalantis: Star Wars](https://github.com/Yalantis/StarWars.iOS)
 
-### ActivityIndicator
+### Activity Indicator
 * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)
 
 ### Alerts
@@ -139,7 +139,7 @@ A list of awesome resources, libraries, frameworks for iOS developers.
 * [CVCalendar](https://github.com/Mozharovsky/CVCalendar)
 * [Calendar](https://github.com/jumartin/Calendar)
 
-### Camera & Gallery
+### Camera and Gallery
 * [KYShutterButton](https://github.com/ykyouhei/KYShutterButton) - Custom button that is similar to the shutter button of the camera app
 * [ALCameraViewController](https://github.com/AlexLittlejohn/ALCameraViewController) - A camera view controller with custom image picker and image cropping.
 * [Fusuma](https://github.com/ytakzk/Fusuma) - Image Gallery
@@ -286,7 +286,7 @@ A list of awesome resources, libraries, frameworks for iOS developers.
 ## Video
 * [Mobile Player](https://github.com/mobileplayer/mobileplayer-ios) - A powerful and completely customizable media player for iOS.
 
-## Logging & Debug
+## Logging and Debug
 * [XCGLogger](https://github.com/DaveWoodCom/XCGLogger)
 * [CocoaLumberJack](https://github.com/CocoaLumberjack/CocoaLumberjack)
 * [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver)
@@ -335,7 +335,7 @@ A list of awesome resources, libraries, frameworks for iOS developers.
 * [BrainCore](https://github.com/aleph7/BrainCore) - The iOS and OS X neural network framework
 
 
-## Similar Compliations
+## Similar Compilations
 * [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
 * [Awesome iOS](https://github.com/vsouza/awesome-ios)
 * [Awesome Swift](https://github.com/matteocrippa/awesome-swift)
