@@ -5,6 +5,58 @@ A list of awesome resources, libraries, frameworks for iOS developers.
 
 ##Contents
 * [Architecture](#architecture)
+* [Pure Swift](#pure-swift)
+* [Foundation](#foundation)
+	* [Color](#color)
+	* [Date](#date)
+	* [Operation](#operation)
+	* [Timer](#timer)
+* UI
+	* [Animations](#animations)
+	* [Activity Indication](#activity-indicator)
+	* [Alerts](#alerts)
+	* [Button](#button)
+	* [Cache](#cache)
+	* [Calendar](#calendar)
+	* [Camera](#camera-&-gallery)
+	* [Chat](#chat)
+	* [CollectionView](#collectionview)
+	* [Drawing](#drawing)
+	* [Forms](#forms)
+	* [Graphs](#graphs)
+	* [Image](#image)
+	* [Image Caching](#image-caching)
+	* [Label](#label)
+	* [Map](#map)
+	* [Navigation](#navigation)
+	* [Notification](#notification)
+	* [Onboarding](#onboarding)
+	* [PopOvers](#popovers)
+	* [Pull-to-Refresh](#pull-to-refresh)
+	* [Side Menu](#side-menu)
+	* [Tab Bar](#tab-bar)
+	* [TableView](#tableview)
+	* [TextField](#textfield)
+	* [Textview](#textview)
+	* [Walkthrough](#walkthrough)
+	* [Others](#others)
+* [Networking](#networking)
+	* [Network Layer](#network-layer)
+	* [JSON Parsing](#json-parsing)
+* [Data Layer](#data-Layer)
+* [Image Processing](#image-processing)
+* [Security](#security)
+* [Audio](#audio)
+* [Video](#video)
+* [Logging & Debug](#loggin-&-debug)
+* [Analytics](#analytics)
+* [Localization](#localization)
+* [Misc](#misc) 
+* [Version](#version)
+* [Learn Swift](#learn-swift)
+* [Coding Guide](#coding-guide)
+* [AI](#ai)
+* [Similar Compilations](#similar-compilations)
 
 ***
 ## Architecture
@@ -48,21 +100,6 @@ A list of awesome resources, libraries, frameworks for iOS developers.
 * [Swifty Timer](https://github.com/radex/SwiftyTimer) - Swifty API for NSTimer
 * [EasyTimer](https://github.com/HighBay/EasyTimer) - for delaying code or repeating code.
 
-## Networking
-### Network Layer
-* [Networking](https://github.com/3lvis/Networking) - Simple HTTP Networking in Swift a NSURLSession wrapper with image caching support
-* [URLNavigator](https://github.com/devxoul/URLNavigator) -  Elegant URL Routing for Swift
-* [Moya](https://github.com/Moya/Moya) - Network abstraction layer written in Swift.
-
-### JSON Parsing
-* [Thoughtbot: Argo](https://github.com/thoughtbot/Argo) - Functional JSON parsing library for Swift 
-* [Lyft: Mapper](https://github.com/lyft/mapper)
-* [JSON Swift](https://github.com/owensd/json-swift)
-* [Swifty JSON](https://github.com/SwiftyJSON/Alamofire-SwiftyJSON)
-
-###Other
-* [Reachability](https://github.com/ashleymills/Reachability.swift)
-* [Netfox](https://github.com/kasketis/netfox) - A lightweight, one line setup, iOS / OSX network debugging library.
 
 ##UI
 ### Animations 
@@ -102,9 +139,11 @@ A list of awesome resources, libraries, frameworks for iOS developers.
 * [CVCalendar](https://github.com/Mozharovsky/CVCalendar)
 * [Calendar](https://github.com/jumartin/Calendar)
 
-### Camera
+### Camera & Gallery
 * [KYShutterButton](https://github.com/ykyouhei/KYShutterButton) - Custom button that is similar to the shutter button of the camera app
 * [ALCameraViewController](https://github.com/AlexLittlejohn/ALCameraViewController) - A camera view controller with custom image picker and image cropping.
+* [Fusuma](https://github.com/ytakzk/Fusuma) - Image Gallery
+* [MHVideoPhotoGallery](https://github.com/mariohahn/MHVideoPhotoGallery)
  
 ### Chat
 * [Chatto](https://github.com/badoo/Chatto)
@@ -135,10 +174,6 @@ A list of awesome resources, libraries, frameworks for iOS developers.
 ### Image Caching
 * [Nuke](https://github.com/kean/Nuke) - for loading, processing, caching and preheating images
 * [Preheat](https://github.com/kean/Preheat) - Automates prefetching of content in UITableView and UICollectionView
-
-### Image Gallery
-* [Fusuma](https://github.com/ytakzk/Fusuma)
-* [MHVideoPhotoGallery](https://github.com/mariohahn/MHVideoPhotoGallery)
 
 ### Label
 * [CountdownLabel](https://github.com/suzuki-0000/CountdownLabel)
@@ -201,7 +236,7 @@ A list of awesome resources, libraries, frameworks for iOS developers.
 * [Instructions](https://github.com/ephread/Instructions)
 * [BWWalkthrough](https://github.com/ariok/BWWalkthrough)
 
-### Other 
+### Others
 * [ISTimeline](https://github.com/instant-solutions/ISTimeline)
 * [IKRouter](https://github.com/IanKeen/IKRouter) - URLScheme router than supports auto creation of UIViewControllers for associated url parameters to allow creation of navigation stacks
 * [PermissionScope](https://github.com/nickoneill/PermissionScope) - Intelligent iOS permissions UI and unified API
@@ -209,6 +244,22 @@ A list of awesome resources, libraries, frameworks for iOS developers.
 * [SwfitSVG](https://github.com/mchoe/SwiftSVG) - A single pass SVG parser with multiple interface options (String, NS/UIBezierPath, CAShapeLayer, and NS/UIView)
 * [AAWindow](https://github.com/aaronabentheuer/AAWindow) - UIWindow subclass to enable behavior like adaptive round-corners & detecting when Control Center is opened.
 
+## Networking
+### Network Layer
+* [Networking](https://github.com/3lvis/Networking) - Simple HTTP Networking in Swift a NSURLSession wrapper with image caching support
+* [URLNavigator](https://github.com/devxoul/URLNavigator) -  Elegant URL Routing for Swift
+* [Moya](https://github.com/Moya/Moya) - Network abstraction layer written in Swift.
+
+### JSON Parsing
+* [Thoughtbot: Argo](https://github.com/thoughtbot/Argo) - Functional JSON parsing library for Swift 
+* [Lyft: Mapper](https://github.com/lyft/mapper)
+* [JSON Swift](https://github.com/owensd/json-swift)
+* [Swifty JSON](https://github.com/SwiftyJSON/Alamofire-SwiftyJSON)
+
+###Other
+* [Reachability](https://github.com/ashleymills/Reachability.swift)
+* [Netfox](https://github.com/kasketis/netfox) - A lightweight, one line setup, iOS / OSX network debugging library.
+* 
 ## Data Layer
 * [Pantry](https://github.com/nickoneill/Pantry) - The missing light persistence layer for Swift.
 * [CoreStore](https://github.com/JohnEstropia/CoreStore) - Unleashing the real power of Core Data with the elegance and safety of Swift
@@ -240,12 +291,6 @@ A list of awesome resources, libraries, frameworks for iOS developers.
 * [CocoaLumberJack](https://github.com/CocoaLumberjack/CocoaLumberjack)
 * [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver)
 
-## AI
-* [Neural Style](https://github.com/jcjohnson/neural-style) - Prisma like Neural Networks.
-* [Colornet](https://github.com/pavelgonchar/colornet) - Neural Network to colorize grayscale images.
-* [Deep Learning Kit](https://github.com/DeepLearningKit/DeepLearningKit) - Open Source Deep Learning Framework for Apple's iOS, OS X and tvOS.
-* [Swift AI](https://github.com/collinhundley/Swift-AI) - An artificial intelligence and machine learning library in Swift.
-* [BrainCore](https://github.com/aleph7/BrainCore) - The iOS and OS X neural network framework
 
 ## Analytics
 * [HEAnalytics](https://github.com/HsoiEnterprises/HEAnalytics) - A simple Swift-based framework for iOS app analytics across analytics platforms.
@@ -253,7 +298,8 @@ A list of awesome resources, libraries, frameworks for iOS developers.
 ## Localization
 * [LocalizeSwift](https://github.com/marmelroy/Localize-Swift) - Swift 2.0 friendly localization and i18n with in-app language switching
 * [Swifternalization](https://github.com/tomkowz/Swifternalization) - Localize iOS apps in a smarter way using JSON files.
-* 
+
+
 ## Misc
 * [Swift Luhn](https://github.com/MaxKramer/SwiftLuhn) - Debit/Credit card validation port of the Luhn Algorithm
 * [BarcodeScanner](https://github.com/hyperoslo/BarcodeScanner)
@@ -280,6 +326,14 @@ A list of awesome resources, libraries, frameworks for iOS developers.
 * [iOS Good Practices](https://github.com/futurice/ios-good-practices)
 * [Swift Lint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
 * [Swift Style Guide](https://github.com/Ramshandilya/The-Swift-Style-Guide)
+
+## AI
+* [Neural Style](https://github.com/jcjohnson/neural-style) - Prisma like Neural Networks.
+* [Colornet](https://github.com/pavelgonchar/colornet) - Neural Network to colorize grayscale images.
+* [Deep Learning Kit](https://github.com/DeepLearningKit/DeepLearningKit) - Open Source Deep Learning Framework for Apple's iOS, OS X and tvOS.
+* [Swift AI](https://github.com/collinhundley/Swift-AI) - An artificial intelligence and machine learning library in Swift.
+* [BrainCore](https://github.com/aleph7/BrainCore) - The iOS and OS X neural network framework
+
 
 ## Similar Compliations
 * [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
