@@ -31,7 +31,8 @@ A list of awesome resources, libraries, frameworks for iOS developers.
 	* [Navigation](#navigation)
 	* [Notification](#notification)
 	* [Onboarding](#onboarding)
-	* [PopOvers](#popovers)
+	* [Page Control](#page-control)
+	* [PopOver](#popover)
 	* [Pull-to-Refresh](#pull-to-refresh)
 	* [Side Menu](#side-menu)
 	* [Tab Bar](#tab-bar)
@@ -142,8 +143,10 @@ A list of awesome resources, libraries, frameworks for iOS developers.
 ### Camera and Gallery
 * [KYShutterButton](https://github.com/ykyouhei/KYShutterButton) - Custom button that is similar to the shutter button of the camera app
 * [ALCameraViewController](https://github.com/AlexLittlejohn/ALCameraViewController) - A camera view controller with custom image picker and image cropping.
-* [Fusuma](https://github.com/ytakzk/Fusuma) - Image Gallery
-* [MHVideoPhotoGallery](https://github.com/mariohahn/MHVideoPhotoGallery)
+* [IFTTT: FastttCamera](https://github.com/IFTTT/FastttCamera) - Fasttt and easy camera framework for iOS with customizable filters.
+* [Fusuma](https://github.com/ytakzk/Fusuma) - Instagram-like photo browser and a camera feature.
+* [MHVideoPhotoGallery](https://github.com/mariohahn/MHVideoPhotoGallery) - A Photo and Video Gallery.
+* [Yalantis: PixPic](https://github.com/Yalantis/PixPic) - A photo editing app.
  
 ### Chat
 * [Chatto](https://github.com/badoo/Chatto)
@@ -196,7 +199,10 @@ A list of awesome resources, libraries, frameworks for iOS developers.
 * [Ramotion: Paper Onboarding](https://github.com/Ramotion/paper-onboarding)
 * [Onboard](https://github.com/mamaral/Onboard)
 
-### PopOvers
+### Page Control
+* [PageControls](https://github.com/popwarsweet/PageControls)
+
+### PopOver
 * [Popover](https://github.com/corin8823/Popover)
 
 ### Pull-to-refesh
