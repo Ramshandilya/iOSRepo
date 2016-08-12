@@ -205,7 +205,7 @@ A list of awesome resources, libraries, frameworks for iOS developers.
 ### PopOver
 * [Popover](https://github.com/corin8823/Popover)
 
-### Pull-to-refesh
+### Pull-to-refresh
 * [Refresher](https://github.com/jcavar/refresher)
 * [Yalantis: Rentals](https://github.com/Yalantis/Pull-to-Refresh.Rentals-iOS)
 * [Yalantis: PullToRefresh](https://github.com/Yalantis/PullToRefresh)
@@ -296,6 +296,7 @@ A list of awesome resources, libraries, frameworks for iOS developers.
 ## Logging and Debug
 * [XCGLogger](https://github.com/DaveWoodCom/XCGLogger)
 * [CocoaLumberJack](https://github.com/CocoaLumberjack/CocoaLumberjack)
+* [CleanroomLogger](https://github.com/emaloney/CleanroomLogger)
 * [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver)
 
 
