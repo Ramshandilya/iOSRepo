@@ -147,6 +147,7 @@ A list of awesome resources, libraries, frameworks for iOS developers.
 * [Fusuma](https://github.com/ytakzk/Fusuma) - Instagram-like photo browser and a camera feature.
 * [MHVideoPhotoGallery](https://github.com/mariohahn/MHVideoPhotoGallery) - A Photo and Video Gallery.
 * [Yalantis: PixPic](https://github.com/Yalantis/PixPic) - A photo editing app.
+* [PrismaSimpleImagePicker](https://github.com/Roylee-ML/PrismaSimpleImagePicker) - Prisma custom camera, image picker and picture editor
  
 ### Chat
 * [Chatto](https://github.com/badoo/Chatto)
@@ -266,7 +267,8 @@ A list of awesome resources, libraries, frameworks for iOS developers.
 ###Other
 * [Reachability](https://github.com/ashleymills/Reachability.swift)
 * [Netfox](https://github.com/kasketis/netfox) - A lightweight, one line setup, iOS / OSX network debugging library.
-* 
+* [Kakapo](https://github.com/devlucky/Kakapo) - Dynamically Mock server behaviors and responses in Swift.
+
 ## Data Layer
 * [Pantry](https://github.com/nickoneill/Pantry) - The missing light persistence layer for Swift.
 * [CoreStore](https://github.com/JohnEstropia/CoreStore) - Unleashing the real power of Core Data with the elegance and safety of Swift
