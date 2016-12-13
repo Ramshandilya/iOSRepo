@@ -34,7 +34,7 @@ A list of awesome resources, libraries, frameworks for iOS developers.
 	* [Page Control](#page-control)
 	* [PopOver](#popover)
 	* [Pull-to-Refresh](#pull-to-refresh)
-	* [Segment](#sement)
+	* [Segment](#segment)
 	* [Side Menu](#side-menu)
 	* [Slider](#slider)
 	* [Tab Bar](#tab-bar)
