@@ -34,7 +34,9 @@ A list of awesome resources, libraries, frameworks for iOS developers.
 	* [Page Control](#page-control)
 	* [PopOver](#popover)
 	* [Pull-to-Refresh](#pull-to-refresh)
+	* [Segment](#sement)
 	* [Side Menu](#side-menu)
+	* [Slider](#slider)
 	* [Tab Bar](#tab-bar)
 	* [TableView](#tableview)
 	* [TextField](#textfield)
@@ -44,8 +46,10 @@ A list of awesome resources, libraries, frameworks for iOS developers.
 * [Networking](#networking)
 	* [Network Layer](#network-layer)
 	* [JSON Parsing](#json-parsing)
+	* [Testing](#testing)
 * [Data Layer](#data-Layer)
 * [Image Processing](#image-processing)
+* [Permissions](#permissions)
 * [Security](#security)
 * [Audio](#audio)
 * [Video](#video)
@@ -93,6 +97,7 @@ A list of awesome resources, libraries, frameworks for iOS developers.
 ### Date
 * [Date Extentions](https://github.com/erica/NSDate-Extensions) - Practical real-world dates
 * [NSDate-TimeAgo](https://github.com/kevinlawler/NSDate-TimeAgo) - A "time ago", "time since", "relative date", or "fuzzy date" category for NSDate and iOS.
+* [Timepiece](https://github.com/naoty/Timepiece) - Intuitive date handling.
 
 ### Operations
 * [PSOperations](https://github.com/pluralsight/PSOperations) - A framework for advanced NSOperations usage https://developer.apple.com/videos/wwdc/2015/?id=226
@@ -100,6 +105,7 @@ A list of awesome resources, libraries, frameworks for iOS developers.
 ### Timer
 * [Swifty Timer](https://github.com/radex/SwiftyTimer) - Swifty API for NSTimer
 * [EasyTimer](https://github.com/HighBay/EasyTimer) - for delaying code or repeating code.
+* [Each](https://github.com/dalu93/Each) - Elegant ⏱ interface.
 
 
 ##UI
@@ -109,6 +115,7 @@ A list of awesome resources, libraries, frameworks for iOS developers.
 * [Advance](https://github.com/storehouse/Advance) - A powerful animation framework for iOS, tvOS, and OS X.
 * [IFTTT: RazzleDazzle](https://github.com/IFTTT/RazzleDazzle)
 * [Fluent](https://github.com/matthewcheok/Fluent) - Swift animation made easy.
+* [Interpolate](https://github.com/marmelroy/Interpolate) - create interactive gesture-driven animations
 * [Ramotion: CircleMenu](https://github.com/Ramotion/circle-menu)
 * [BubbleTransition](https://github.com/andreamazz/BubbleTransition)
 * [ElasticTransition](https://github.com/lkzhao/ElasticTransition)
@@ -116,6 +123,8 @@ A list of awesome resources, libraries, frameworks for iOS developers.
 * [Ramotion: Preview Transition](PreviewTransition)
 * [Ramotion: FoldingCell](https://github.com/Ramotion/folding-cell)
 * [Yalantis: Star Wars](https://github.com/Yalantis/StarWars.iOS)
+* [Jelly](https://github.com/SebastianBoldt/Jelly) - custom view controller transitions.
+* [View2ViewTransition](https://github.com/naru-jpn/View2ViewTransition)
 
 ### Activity Indicator
 * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)
@@ -130,6 +139,7 @@ A list of awesome resources, libraries, frameworks for iOS developers.
 * [ActivityButton](https://github.com/justinHowlett/JHActivityButton)
 * [Do Favorite Button](https://github.com/okmr-d/DOFavoriteButton)
 * [KCFloatingActionButton](https://github.com/kciter/KCFloatingActionButton)
+* [CRNetworkButton](https://github.com/Cleveroad/CRNetworkButton)
 
 ### Cache 
 * [HanekeSwift](https://github.com/Haneke/HanekeSwift) - A lightweight generic cache for iOS written in Swift with extra love for images.
@@ -148,6 +158,7 @@ A list of awesome resources, libraries, frameworks for iOS developers.
 * [MHVideoPhotoGallery](https://github.com/mariohahn/MHVideoPhotoGallery) - A Photo and Video Gallery.
 * [Yalantis: PixPic](https://github.com/Yalantis/PixPic) - A photo editing app.
 * [PrismaSimpleImagePicker](https://github.com/Roylee-ML/PrismaSimpleImagePicker) - Prisma custom camera, image picker and picture editor
+* [NohanaImagePicker](https://github.com/nohana/NohanaImagePicker)
  
 ### Chat
 * [Chatto](https://github.com/badoo/Chatto)
@@ -165,6 +176,7 @@ A list of awesome resources, libraries, frameworks for iOS developers.
 
 ### Forms
 * [Eureka](https://github.com/xmartlabs/Eureka) - Elegant iOS form builder in Swift 2
+* [Form Validator](https://github.com/ustwo/formvalidator-swift)
 
 ### Graphs
 * [ScrollableGraphView](https://github.com/philackm/Scrollable-GraphView) - An adaptive scrollable graph view for iOS to visualise simple discrete datasets.
@@ -175,10 +187,12 @@ A list of awesome resources, libraries, frameworks for iOS developers.
 * [Translucid](https://github.com/Ekhoo/Translucid) - Set an Image as text background
 * [XAnimatedImage](https://github.com/khaledmtaha/XAnimatedImage) - A performant animated GIF engine for iOS.
 * [AspectFillFaceAware](https://github.com/BeauNouvelle/AspectFillFaceAware) - focus on faces within an image when using AspectFill.
+* [FaceAware](https://github.com/BeauNouvelle/FaceAware)
 
 ### Image Caching
 * [Nuke](https://github.com/kean/Nuke) - for loading, processing, caching and preheating images
 * [Preheat](https://github.com/kean/Preheat) - Automates prefetching of content in UITableView and UICollectionView
+* [Vulcan](https://github.com/jinSasaki/Vulcan)
 
 ### Label
 * [CountdownLabel](https://github.com/suzuki-0000/CountdownLabel)
@@ -195,6 +209,7 @@ A list of awesome resources, libraries, frameworks for iOS developers.
 * [CWStatusBarNotification](https://github.com/cezarywojcik/CWStatusBarNotification) - Easily create text-based notifications that appear on the status bar.
 * [JFMinimalNotifications](https://github.com/atljeremy/JFMinimalNotifications)
 * [Whisper](https://github.com/hyperoslo/Whisper)
+* [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages)
 
 ### Onboarding
 * [Ramotion: Paper Onboarding](https://github.com/Ramotion/paper-onboarding)
@@ -212,8 +227,20 @@ A list of awesome resources, libraries, frameworks for iOS developers.
 * [Yalantis: PullToRefresh](https://github.com/Yalantis/PullToRefresh)
 * [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh)
 
+### Segment
+* [Yalantis: Segmentio](https://github.com/Yalantis/Segmentio)
+
 ### Side Menu
 * [SideMenuController](https://github.com/teodorpatras/SideMenuController) 
+
+### Slider
+* [HGCircularSlider](https://github.com/HamzaGhazouani/HGCircularSlider)
+* [10Clock](https://github.com/joedaniels29/10Clock)
+
+### SVG
+* [Snowflake](https://github.com/onmyway133/Snowflake)
+* [SwiftSVG](https://github.com/mchoe/SwiftSVG) - A single pass SVG parser with multiple interface options (String, NS/UIBezierPath, CAShapeLayer, and NS/UIView).
+* [Macaw](https://github.com/exyte/Macaw)
 
 ### Tab Bar
 * [Yalantis: Color Match Tabs](https://github.com/Yalantis/ColorMatchTabs)
@@ -243,14 +270,19 @@ A list of awesome resources, libraries, frameworks for iOS developers.
 * [Gecco](https://github.com/yukiasai/Gecco) - Simply highlight items for your tutorial walkthrough, written in Swift
 * [Instructions](https://github.com/ephread/Instructions)
 * [BWWalkthrough](https://github.com/ariok/BWWalkthrough)
+* [Presentation](https://github.com/hyperoslo/Presentation)
 
 ### Others
+* [Facebook: AsyncDisplayKit](https://github.com/facebook/AsyncDisplayKit) - Smooth asynchronous user interfaces for iOS apps.
 * [ISTimeline](https://github.com/instant-solutions/ISTimeline)
 * [IKRouter](https://github.com/IanKeen/IKRouter) - URLScheme router than supports auto creation of UIViewControllers for associated url parameters to allow creation of navigation stacks
-* [PermissionScope](https://github.com/nickoneill/PermissionScope) - Intelligent iOS permissions UI and unified API
-* [Permission](https://github.com/delba/Permission) - A unified API to ask for permissions on iOS.
-* [SwfitSVG](https://github.com/mchoe/SwiftSVG) - A single pass SVG parser with multiple interface options (String, NS/UIBezierPath, CAShapeLayer, and NS/UIView)
 * [AAWindow](https://github.com/aaronabentheuer/AAWindow) - UIWindow subclass to enable behavior like adaptive round-corners & detecting when Control Center is opened.
+* [StatefulViewController](https://github.com/aschuch/StatefulViewController) - Placeholder views based on content, loading, error or empty states.
+* [StatusProvider](https://github.com/mariohahn/StatusProvider)
+* [CreditCardForm](https://github.com/orazz/CreditCardForm-iOS)
+* [EasyTipView](https://github.com/teodorpatras/EasyTipView)
+* [SnapTimer](https://github.com/andresinaka/SnapTimer) - Snapchat's stories timer.
+* [ComplimentaryGradientView](https://github.com/gkye/ComplimentaryGradientView) - Create complementary gradients generated from dominant and prominent colors in supplied image.
 
 ## Networking
 ### Network Layer
@@ -264,10 +296,15 @@ A list of awesome resources, libraries, frameworks for iOS developers.
 * [JSON Swift](https://github.com/owensd/json-swift)
 * [Swifty JSON](https://github.com/SwiftyJSON/Alamofire-SwiftyJSON)
 
+###Testing
+* [Venmo: DVR](https://github.com/venmo/DVR) - Network testing for Swift.
+* [Kakapo](https://github.com/devlucky/Kakapo) - Dynamically Mock server behaviors and responses in Swift.
+* [Mockingjay](https://github.com/kylef/Mockingjay) - stub HTTP requests with ease.
+
 ###Other
 * [Reachability](https://github.com/ashleymills/Reachability.swift)
 * [Netfox](https://github.com/kasketis/netfox) - A lightweight, one line setup, iOS / OSX network debugging library.
-* [Kakapo](https://github.com/devlucky/Kakapo) - Dynamically Mock server behaviors and responses in Swift.
+
 
 ## Data Layer
 * [Pantry](https://github.com/nickoneill/Pantry) - The missing light persistence layer for Swift.
@@ -282,10 +319,15 @@ A list of awesome resources, libraries, frameworks for iOS developers.
 * [Filterpedia](https://github.com/FlexMonkey/Filterpedia) - Core Image Filter Explorer & Showcase
 * [Toucan](https://github.com/gavinbunney/Toucan) - Fabulous Image Processing in Swift.
 
+##Permissions
+* [Arek](https://github.com/ennioma/arek) - wrapper over any kind of iOS permission.
+* [PermissionScope](https://github.com/nickoneill/PermissionScope) - Intelligent iOS permissions UI and unified API
+* [Permission](https://github.com/delba/Permission) - A unified API to ask for permissions on iOS.
 
 ##Security
 * [Locksmith](https://github.com/matthewpalmer/Locksmith) - A powerful, protocol-oriented library for working with the keychain in Swift.
-* [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - Crypto related functions and helpers for Swift
+* [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - Crypto related functions and helpers for Swift.
+* [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess)
 
 ## Audio
 * [Chirp](https://github.com/trifl/Chirp) - The easiest way to prepare, play, and remove sounds in your Swift app.
@@ -320,6 +362,8 @@ A list of awesome resources, libraries, frameworks for iOS developers.
 * [FlagKit](https://github.com/madebybowtie/FlagKit) - Beautiful flag icons for usage in apps and on the web.
 * [Device](https://github.com/Ekhoo/Device) - Light weight tool for detecting the current device and screen size written in swift.
 * [Live](https://github.com/ltebean/Live) - Livestream demo
+* [macOS Security & Privacy guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
+* [Matt Gallagher: CwlUtils](https://github.com/mattgallagher/CwlUtils)
 
 ##Version 
 * [AppVersionMonitor](https://github.com/eure/AppVersionMonitor)
