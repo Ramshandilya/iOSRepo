@@ -1,4 +1,4 @@
-![iOS Repo](../master/title.png)
+![iOS Repo](https://github.com/Ramshandilya/iOSRepo/blob/master/title.png)
 ####About
 A list of awesome resources, libraries, frameworks for iOS developers.
 ***
