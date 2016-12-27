@@ -71,6 +71,7 @@ A list of awesome resources, libraries, frameworks for iOS developers.
 * [Transporter](https://github.com/DenHeadless/Transporter) - Modern finite-state machine implemented in pure Swift
 * [A composable pattern for pure state machines with effects](https://gist.github.com/andymatuschak/d5f0a8730ad601bcccae97e8398e25b2)
 * [Square: Cleanse](https://github.com/square/Cleanse) - Lightweight Swift Dependency Injection Framework
+* [Fantastic iOS Architecture](https://github.com/onmyway133/fantastic-ios-architecture)
 
 ## Pure Swift
 ### Algorithms
@@ -372,8 +373,12 @@ A list of awesome resources, libraries, frameworks for iOS developers.
 
 ## Learn Swift
 * [30 Days of Swift](https://github.com/allenwong/30DaysofSwift)
-* [Swift-Radio-Pro](https://github.com/swiftcodex/Swift-Radio-Pro) - Professional Radio Station App, created w/ Swift 2.2
 * [Swift a Day](https://github.com/lindadong/swift-a-day)
+
+## OSS Applications
+* [Kickstarter](https://github.com/kickstarter/ios-oss)
+* [Swift-Radio-Pro](https://github.com/swiftcodex/Swift-Radio-Pro) - Professional Radio Station App, created w/ Swift 2.2
+* [Artsy: Eidolon](https://github.com/artsy/eidolon) - The Artsy Auction Kiosk App
 
 
 ## Coding Guide
